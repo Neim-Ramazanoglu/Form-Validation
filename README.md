@@ -1,15 +1,5 @@
-# odev-3
 
-Size vermiş olduğumuz form'un valid olup olmadığını kontrol etmeniz ve mesajları özelleştirmeniz bekleniyor.
-
-## Örnek sayfa yapısı
-Valid değil ise
-![alt text](/form-not-valid.png)
-
-Valid ise
-
-![alt text](/form-valid.png)
-
+Canlı haline buradaki linkten ulaşabilirsiniz https://form-validation-neim.netlify.app/
 
 ## Kurallar
 1- Kullanıcı Adı, Şifre ve Email boş olduğunda hata verecek.
